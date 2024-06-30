@@ -1,6 +1,8 @@
 # Phishing URL Detection System
-![image](https://user-images.githubusercontent.com/79131292/144742825-23367f0f-9e67-4c99-ba1f-b86a187675c9.png)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
+![image](https://github.com/Agalya1909/Edunet-Foundation/assets/119459631/26165ee5-3a47-41d3-acea-356ca028519b)
+![image](https://github.com/Agalya1909/Edunet-Foundation/assets/119459631/1a214f1b-94bc-4a28-bc5d-f86f0cdb1fd1)
+![image](https://github.com/Agalya1909/Edunet-Foundation/assets/119459631/8413f8ae-d706-443c-ad40-2a9d25727fc3)
+
 
 ## Table of Content
   * [Introduction](#introduction)
